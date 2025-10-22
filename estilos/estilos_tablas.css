@@ -1,0 +1,25 @@
+
+table {
+    margin: 20px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    background: var(--accent-100);
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.formulario_reporte {
+    padding: 10px;
+    border: 1px solid black;
+    width: 30%;
+    background-color: var(--primary-200);
+}
+
+
